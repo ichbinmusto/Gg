@@ -11,8 +11,6 @@
 ## Repo Stats 
 
 | [![BROKENUSERBOT](https://img.shields.io/static/v1?label=&message=BROKENUSERBOT&color=blue&style=for-the-badge)](https://github.com/mrxbroken011/BROKENUSERBOT) |
-|---|
-| [![Description](https://img.shields.io/static/v1?label=&message=Your%20Description%20Here&color=lightgrey&style=for-the-badge)](https://github.com/mrxbroken011/BROKENUSERBOT) |
 | [![Stars](https://img.shields.io/github/stars/mrxbroken011/BROKENUSERBOT?style=flat-square)](https://github.com/mrxbroken011/BROKENUSERBOT) [![Forks](https://img.shields.io/github/forks/mrxbroken011/BROKENUSERBOT?style=flat-square)](https://github.com/mrxbroken011/BROKENUSERBOT) |
 
 
