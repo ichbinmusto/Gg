@@ -1,0 +1,35 @@
+{
+    "name": "BROKEN-USER-BOT",
+    "logo": "https://telegra.ph/file/4513f188be254572697e3.jpg", 
+    "description": "Telegram Userbot with multi Clients for Spamming or Mass.",
+    "keywords": ["pyrogram", "userbot"],
+    "repository": "https://github.com/MRXBROKEN011/BROKENUSERBOT",
+  "stack": "container",
+    "env": {
+        "STRING_SESSION1": {
+            "description": "fill with the telethon session string ",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "Fill there an mongo database from mongodb.com",
+            "required": true,
+            "value": ""
+        },
+        "SUDO_USERS": {
+            "description": "Fill there your I'd go to @Miss_YumiPro_Bot pm and type /id",
+            "required": true,
+            "value": "1841914911 1234567890"
+        },
+        "OWNER_ID": {
+            "description": "Fill there your I'd go to @Miss_YumiPro_Bot pm and type /id",
+            "required": true,
+            "value": "1841914911"
+        },
+        "BOT_TOKEN": {
+            "description": "fill with your bot token get from @BotFather on telegram",
+            "required": true,
+            "value": ""
+        }
+
+    }
+  }
