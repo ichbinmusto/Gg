@@ -12,7 +12,7 @@
 
 <p align="center">
     
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=mrxbroken011&repo=BROKENUSERBOT&theme=dark)
     
 | [![BROKENUSERBOT](https://img.shields.io/static/v1?label=&message=BROKENUSERBOT&color=blue&style=for-the-badge)](https://github.com/mrxbroken011/BROKENUSERBOT) |
 |---|
