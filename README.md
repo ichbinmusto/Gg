@@ -14,12 +14,13 @@
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=mrxbroken011&repo=BROKENUSERBOT&theme=dark)
 
-| [![BROKENUSERBOT](https://img.shields.io/static/v1?label=&message=BROKENUSERBOT&color=red&style=for-github-repo)](https://github.com/mrxbroken011/BROKENUSERBOT) |
+| [![BROKENUSERBOT](https://img.shields.io/static/v1?label=&message=BROKENUSERBOT&color=blue&style=for-the-badge)](https://github.com/mrxbroken011/BROKENUSERBOT) |
 |---|
-| [![Stars](https://img.shields.io/github/stars/mrxbroken011/BROKENUSERBOT?style=for-github-repo)](https://github.com/mrxbroken011/BROKENUSERBOT) |
-| [![Forks](https://img.shields.io/github/forks/mrxbroken011/BROKENUSERBOT?style=for-github-repo)](https://github.com/mrxbroken011/BROKENUSERBOT) |
+
+| [![Stars](https://img.shields.io/github/stars/mrxbroken011/BROKENUSERBOT?style=flat-square)](https://github.com/mrxbroken011/BROKENUSERBOT) | [![Forks](https://img.shields.io/github/forks/mrxbroken011/BROKENUSERBOT?style=flat-square)](https://github.com/mrxbroken011/BROKENUSERBOT) |
 
 </div>
+
 
 
 ## Requirements 
