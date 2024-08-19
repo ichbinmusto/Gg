@@ -8,8 +8,12 @@
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
-## Repo Stats    
-[![BROKEN-USERBOT](https://github-readme-stats.vercel.app/api/pin/?username=Mrxbroken011&repo=BROKENUSERBOT&theme=dark&show_owner=false&cache_seconds=1)](https://github.com/mrxbroken011/BROKENUSERBOT)
+## Repo Stats 
+
+| [![BROKENUSERBOT](https://img.shields.io/static/v1?label=&message=BROKENUSERBOT&color=blue&style=for-the-badge)](https://github.com/mrxbroken011/BROKENUSERBOT) |
+|---|
+| [![Description](https://img.shields.io/static/v1?label=&message=Your%20Description%20Here&color=lightgrey&style=for-the-badge)](https://github.com/mrxbroken011/BROKENUSERBOT) |
+| [![Stars](https://img.shields.io/github/stars/mrxbroken011/BROKENUSERBOT?style=flat-square)](https://github.com/mrxbroken011/BROKENUSERBOT) [![Forks](https://img.shields.io/github/forks/mrxbroken011/BROKENUSERBOT?style=flat-square)](https://github.com/mrxbroken011/BROKENUSERBOT) |
 
 
 ## Requirements 
