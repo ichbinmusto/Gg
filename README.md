@@ -9,7 +9,8 @@
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 ## Repo Stats    
-[![BROKEN-USERBOT](https://github-readme-stats.vercel.app/api/pin/?username=Mrxbroken011&repo=BROKENUSERBOT&theme=dark&show_owner=false)](https://github.com/mrxbroken011/BROKENUSERBOT)
+[![BROKEN-USERBOT](https://github-readme-stats.vercel.app/api/pin/?username=Mrxbroken011&repo=BROKENUSERBOT&theme=dark&show_owner=false&cache_seconds=1)](https://github.com/mrxbroken011/BROKENUSERBOT)
+
 
 ## Requirements 
 
