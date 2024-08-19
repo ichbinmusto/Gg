@@ -10,7 +10,7 @@
 
 ## Repo Stats
     
-[![BROKEN USERBOT](https://github-readme-stats.vercel.app/api/pin/?username=Mrxbroken011&repo=BROKENUSERBOT&theme=dark)](https://github.com/Mrxbroken011/BROKENUSERBOT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mrxbroken011&repo=BROKENUSERBOT&theme=dark&show_owner=true)](https://github.com/Mrxbroken011/BROKENUSERBOT)
 
 
 ## Requirements 
