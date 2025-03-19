@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h align="center" width="107px">
+<h align="middle" width="107px">
 𝐁𝐫𝐨𝐤𝐞𝐧 ✘ 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ✨☠️
 </h>
 
