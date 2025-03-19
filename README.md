@@ -1,8 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐁𝐫𝐨𝐤𝐞𝐧 ✘ 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ✨☠️</p>
+<h align="center" width="67px">𝐁𝐫𝐨𝐤𝐞𝐧 ✘ 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ✨☠️
+</h>
 
--  Telegram Userbot Project With Multi Clients Based On PyroGram
+<p align="middle"><b>
+Telegram Userbot Project With Multi Clients Based On PyroGram</b>
+</p>
 
 <p align="center"><a href="https://t.me/brokenxnetwork"><img src="https://telegra.ph/file/4513f188be254572697e3.jpg" width="600"></a></p>
 <p align="center">
@@ -12,7 +15,7 @@
 
 <div align="center">
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=mrxbroken011&repo=BROKENUSERBOT&theme=dark)
+![BrokenUserbot](https://github-readme-stats.vercel.app/api/pin/?username=mrxbroken011&repo=BROKENUSERBOT&theme=dark)
 
 | [![BROKENUSERBOT](https://img.shields.io/static/v1?label=&message=BROKENUSERBOT&color=blue&style=for-the-badge)](https://github.com/mrxbroken011/BROKENUSERBOT) |
 |---|
