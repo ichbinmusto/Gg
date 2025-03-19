@@ -2,9 +2,8 @@
 
 <div align="center">
 
-
 <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=720&lines=𝗕𝗿𝗼𝗸𝗲𝗻+𝗨𝘀𝗲𝗿𝗕𝗼𝘁+💀+✨" alt="Broken UserBot">
-</img></div>
+</div>
 
 
    
