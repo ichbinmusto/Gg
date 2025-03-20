@@ -3,7 +3,7 @@
     "logo": "https://telegra.ph/file/4513f188be254572697e3.jpg", 
     "description": "Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/MRXBROKEN011/BROKENUSERBOT",
+    "repository": "https://github.com/ichbinmusto/Gg",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
