@@ -18,8 +18,8 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP", "-1002509634565")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/MrxBroken/BROKENUSERBOT") 
-BRANCH = getenv("BRANCH", "master") #don't change
+REPO_URL = getenv("REPO_URL", "https://github.com/ichbinmusto/Gg") 
+BRANCH = getenv("BRANCH", "main") #don't change
  
 STRING_SESSION1 = getenv("STRING_SESSION1", "1BJWap1sBu1lxSCKlmjNuIXNxwQAPjG4DbZnpfsjRtDVnXdrZSlpuqVUVL1F0k1wZR1efLFvb9lOamh4uOgnjkRER1ACUjLQMU74OdxTeJBWHZDBlxWk6KPwtHfLcOM2i2NA1TRuEUa3nX91cgjEbKjMh4f5ARvlQHThpGWwfz_tSzUFVFfRJzlGtq1WhbFwmqQGDVhgpZP-4FTOqtgDJ1q_iOEhTfwN_rnVqS2ISJFXPV2yUhrxkS59mxr3DRsqVwdFIWdc-pMYtROIVytYAXCEl6B_--GrTnSS3Ky4ypfrpTzsnfRKvbzPqICoqhniI86-pEXIhqelEhxiSEAAcvACjH8XWsgQ=")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
