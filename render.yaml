@@ -5,7 +5,7 @@ services:
     env: python
     buildCommand: pip install -U -r requirements.txt
     startCommand: python3 server.py & python3 -m Broken
-    repo: https://github.com/MrxBroken011/BROKENUSERBOT     
+    repo: https://github.com/ichbinmusto/Gg     
     branch: master
     envVars:
       - key: SUDO_USERS 
